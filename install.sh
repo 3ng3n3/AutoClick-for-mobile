@@ -74,7 +74,7 @@ printf "${ORANGE}NEXT STEPS${RESET}\n"
 printf "1. Enable USB debugging on your Android device.\n"
 printf "2. Connect the device and authorize the debugging prompt.\n"
 printf "3. Check the connection with: ${CYAN}adb devices${RESET}\n"
-printf "4. Run your Python script with: ${CYAN}python3 cps_booster.py${RESET}\n"
+printf "4. Run your Python script with: ${CYAN}python3 clickautoForMobile.py${RESET}\n"
 
 printf "\n"
 printf "${RED}IMPORTANT${RESET}\n"
