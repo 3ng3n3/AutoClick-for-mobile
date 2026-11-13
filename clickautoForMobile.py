@@ -101,8 +101,8 @@ def register_touch(x, y):
             touches.clear()
 
             print(
-                f"\n[+] IS ACTIVATED at {position}"
-                f" | +{EXTRA_CPS} CPS"
+                f"\nIS ACTIVATED at {position}"
+                f" +{EXTRA_CPS} CPS"
             )
 
 
